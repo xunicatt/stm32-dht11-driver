@@ -47,7 +47,3 @@ int main(void) {
 	HAL_DHT11_DeInit(&dht); //deinitialses DHT11 driver
     return 0;
 }
-
-static void MX_TIM1_Init(void) {
-
-}
