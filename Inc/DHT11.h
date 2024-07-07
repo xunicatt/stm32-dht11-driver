@@ -8,6 +8,10 @@
 #include STM32XXXX_HAL_HEADER_FILE
 #include STM32XXXX_HAL_TIM_HEAEDER_FILE
 
+#define __DHT11_VER_MAJ__ 1
+#define __DHT11_VER_MIN__ 0
+#define __DHT11_VER_PATCH__ 1
+
 #ifdef __cplusplus
 extern "C" {
 #endif
